@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Food Saver</string>
+    <color name="grayish">#F0F0F0</color>
+    <string name="register">Register Your Store</string>
+    <string name="login">Login</string>
+    <string name="locatefood">Food Banks Near You</string>
+
+    <string name="location_permission_denied">Denied</string>
+    <string name="location_text">Latitude: %1$.4f \n Longitude: %2$.4f\n Timestamp: %3$tr</string>
+    <string name="no_location">no location</string>
+    <string name="textview_hint">Tracking..</string>
+    <string name="no_address_found">No address found</string>
+    <string name="invalid_lat_long_used">invalid lat long</string>
+    <string name="service_not_available">service not available</string>
+    <string name="address_text">Address: %1$s \n Timestamp: %2$tr</string>
+    <string name="distanceto_text">Miles Away: %1$s \n Timestamp: %2$tr</string>
+    <string name="newtest">Miles Away: %1$s \n Timestamp: %2$tr</string>
+
+
+
+    <string name="firstfrag">Donation Spots Near You</string>
+    <string name="card_title">Welcome To Food Saver!</string>
+    <string name="card_content">Find a food location near you.</string>
+    <string name="action_share">Go to Location</string>
+    <!--    <string name="action_explore">Login</string>-->
+
+
+</resources>
